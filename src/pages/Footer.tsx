@@ -8,11 +8,11 @@ const Footer = () => {
         </div>
 
         <div className="text-slate-50 font-serif">
-          <p>Made by -Karanpreet Singh</p>
+          <p>Made by -Parth Mehra</p>
         </div>
 
         <div className="flex space-x-6">
-          <a href="https://github.com/Kp-Singh09" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/ParthMehra09" target="_blank" rel="noopener noreferrer">
             <svg height="32" viewBox="0 0 72 72" width="32" xmlns="http://www.w3.org/2000/svg">
               <g fill="none" fillRule="evenodd">
                 <path d="M36,72 C55.88,72 72,55.88 72,36 C72,16.12 55.88,0 36,0 C16.12,0 0,16.12 0,36 C0,55.88 16.12,72 36,72 Z" fill="#3E75C3"/>
@@ -21,7 +21,7 @@ const Footer = () => {
             </svg>
           </a>
 
-          <a href="https://www.linkedin.com/in/kp-singh-/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/parth-mehra-64a82b1b3/" target="_blank" rel="noopener noreferrer">
             <svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg">
               <g>
                 <circle cx="16" cy="16" fill="#007BB5" r="16"/>
